@@ -1,0 +1,8 @@
+[package]
+name = "ArtexPackageManagement"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dialoguer="0.11.0"
+colored = "3.0.0"
